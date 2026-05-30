@@ -1,6 +1,6 @@
 {
     "name": "com.demewaki.demewaki-framework",
-    "version": "1.0.0f1",
+    "version": "1.0.0-preview.1",
     "displayName": "Demewaki Framework",
     "description": "デメワキ開発用フレームワーク",
     "unity": "6000.0",
