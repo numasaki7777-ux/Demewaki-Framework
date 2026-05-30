@@ -1,0 +1,12 @@
+{
+    "name": "com.demewaki.demewaki-framework",
+    "version": "1.0.0f1",
+    "displayName": "Demewaki Framework",
+    "description": "デメワキ開発用フレームワーク",
+    "unity": "6000.0",
+    "author": {
+        "name": "Demewaki",
+        "email": "numasaki7777@gmail.com",
+        "url": "https://kinokodensetuniltuki.hatenadiary.jp"
+    }
+}

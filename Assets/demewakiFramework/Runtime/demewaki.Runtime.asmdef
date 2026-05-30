@@ -1,0 +1,16 @@
+{
+    "name": "demewaki.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c12c9da5a5edf4c5a9392e0d73541df8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

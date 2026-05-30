@@ -1,0 +1,19 @@
+{
+    "name": "demewaki.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c12c9da5a5edf4c5a9392e0d73541df8",
+        "GUID:55b84026d7d9e4b5584c990d71af5b12"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
