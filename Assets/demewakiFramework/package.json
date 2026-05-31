@@ -1,6 +1,6 @@
 {
     "name": "com.demewaki.demewaki-framework",
-    "version": "1.0.0-preview.1",
+    "version": "1.0.0-preview.2",
     "displayName": "Demewaki Framework",
     "description": "デメワキ開発用フレームワーク",
     "unity": "6000.0",
@@ -9,5 +9,5 @@
         "email": "numasaki7777@gmail.com",
         "url": "https://kinokodensetuniltuki.hatenadiary.jp"
     },
-    "changelogUrl": "https://github.com/numasaki7777-ux/Demewaki-Framework/tree/main/Assets/demewakiFramework/CHANGELOG.md"
+    "changelogUrl": "https://github.com/numasaki7777-ux/Demewaki-Framework/releases/tag/1.0.0-preview.1"
 }
